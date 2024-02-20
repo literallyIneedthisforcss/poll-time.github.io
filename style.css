@@ -21,9 +21,6 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	font-weight: 900;
 	font-style: normal;
 
-	-webkit-text-stroke: 2px black;
-	-webkit-text-fill-color: white;
-
 	// Hide when not active
 	opacity: 0;
 }
