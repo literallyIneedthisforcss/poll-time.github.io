@@ -13,7 +13,8 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 */
 .custom {
 	background: transparent;
-	width: 400px;
+	width: 100%;
+	height: 100%;
 	transition: opacity 1s;
 	padding: 10px;
 
