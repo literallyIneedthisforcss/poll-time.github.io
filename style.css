@@ -100,7 +100,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	clear: both;
 	line-height: 1.3;
 	font-size: 25px;
-	position: relative;
+	text-align: center;
 }
 .custom .options li.help {
 	background: transparent;
