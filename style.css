@@ -117,6 +117,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	position: absolute;
 	top: 5px;
 	left: 10px;
+	border-radius: 15px;
 }
 .custom .options li .bar {
 	background: #444;
