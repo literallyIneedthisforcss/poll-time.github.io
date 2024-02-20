@@ -136,10 +136,10 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 /*
 * Optional outer border
 */
-.custom .border {
+/*.custom .border {
 	border: none;
 }
-
+*/
 
 .custom .credits {
 	opacity: 0;
