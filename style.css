@@ -89,7 +89,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 .custom .options li.question {
 	padding: 10px 20px;
 	white-space: normal;
-	background: blue;
+	background: transparent;
 	clear: both;
 	line-height: 1.3;
 	font-size: 20px;
