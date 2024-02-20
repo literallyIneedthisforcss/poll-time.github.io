@@ -100,6 +100,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	text-align: center;
 	overflow: hidden;
 	height: 0;
+	display: none;
 }
 .custom .options li.help span {
 	display: block;
