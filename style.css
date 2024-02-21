@@ -130,6 +130,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	background: #68a0be;
 	height: 10px;
 	margin-top: 5px;
+	border-radius: 5px;
 }
 .custom .options li .bar .bar-inner {
 	background: #fff;
